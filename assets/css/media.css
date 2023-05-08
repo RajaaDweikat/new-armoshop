@@ -1,0 +1,45 @@
+
+@media (min-width:768px) and (max-width:884px) {
+    .logo{width: 25%;}
+    .navbar .container{width: 90%; }
+    .headerimg , .content{float:none; width:80%;}
+    .headerimg img{width: 100%; margin-top:10px; margin-bottom: 10px; padding-right: 20px;}
+    .content {margin-bottom:10px; margin-left:10px; padding-left: 0px;}
+     span{font-size: 35px;}
+     p , .content a{font-size: 25px;}
+     categories{ width:50%}
+     .categories img{width: 100%;}
+
+     }
+     
+     
+
+
+    
+  
+   
+
+
+   
+ 
+
+ @media (min-width:300px) and (max-width:430px){ 
+   .list , .navbar .button{display: none;}
+   .icon .fa-bars{display: unset;}
+    .logo , .icon {width: 45%;}
+    .icon{text-align: right;}
+    .logo{margin-right: 25px;}
+    .headerimg , .content{float: none; width:100%}
+    .container{width: 95%; overflow: hidden;}
+    .headerimg{text-align: left;}
+    .headerimg img{width: 100%;}
+    .content{padding: 10px 10px; margin-left: 0px; margin-top: 10px;} 
+    .items{float:none; width: 100%;}
+    .items img{width: 100%;}
+    .categories{float: none; width:100%;}
+    .categories img{width: 100%;}
+ }
+
+
+
+    
